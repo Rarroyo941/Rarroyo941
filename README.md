@@ -5,7 +5,7 @@
 
 <h3>My dream is to become a Senior Full Stack Web Developer some day. </h3>
 
-Contact me!
+Contact me! <br>
 <a href="https://wa.link/cpyz23"> WhatsApp</a> <br>
 <a href="mailto:arroyo.rodrigo@outlook.com">E-mail</a>
 <!--
