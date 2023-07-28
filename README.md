@@ -1,12 +1,19 @@
-### Hi there 👋
+<h1>Hi there! 👋 My name is Rodrigo, I am a 29 years old Web Developer from Argentina.</h1>
 
+🌱 I am currently learning M.E.R.N. Stack.
+
+<h3>My dream is to become a Senior Full Stack Web Developer some day. </h3>
+
+Contact me!
+<a href="https://wa.link/cpyz23"> WhatsApp</a>
+<a href="mailto:arroyo.rodrigo@outlook.com">E-mail</a>
 <!--
 **Rarroyo941/Rarroyo941** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+ I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
