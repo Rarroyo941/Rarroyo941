@@ -1,4 +1,5 @@
-<h1>Hi there! 👋 My name is <b style="color:blue">Rodrigo.</b></h1>
+<img src="https://images.prismic.io/loco-blogs/79328284-f97b-489f-924c-eb3b17e34b56_image2.png?auto=compress%2Cformat&rect=0%2C0%2C1999%2C1124&w=1920&fit=max" alt="MERN"/>
+<h1>Hi there! 👋 My name is <span style="color:#1823BE;background-color:#9CBE18">Rodrigo.</span></h1>
 <h2>I am a 29 years old Web Developer from Argentina.</h2>
 
 🌱 I am currently learning M.E.R.N. Stack.
@@ -6,8 +7,8 @@
 <h3>My dream is to become a Senior Full Stack Web Developer some day. </h3>
 
 Contact me! <br>
-<a href="https://wa.link/cpyz23"> WhatsApp</a> <br>
-<a href="mailto:arroyo.rodrigo@outlook.com">E-mail</a>
+<a href="https://wa.link/cpyz23" target="_BLANK"> WhatsApp</a> <br>
+<a href="mailto:arroyo.rodrigo@outlook.com" target="_BLANK">E-mail</a>
 <!--
 **Rarroyo941/Rarroyo941** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
