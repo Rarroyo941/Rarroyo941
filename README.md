@@ -1,4 +1,4 @@
-<h1>Hi there! 👋 My name is <b>Rodrigo.</b></h1>
+<h1>Hi there! 👋 My name is <b style="color:blue">Rodrigo.</b></h1>
 <h2>I am a 29 years old Web Developer from Argentina.</h2>
 
 🌱 I am currently learning M.E.R.N. Stack.
