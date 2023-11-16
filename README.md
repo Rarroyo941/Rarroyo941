@@ -29,9 +29,7 @@ I am Rodrigo Martín Arroyo, a Software Developer with experience in building cu
 
 
 # 
-<p align="center">
-<img width='10%' src="https://gallardolautaro.tech/assets/logo-848c3b20.svg"/>
-</p>
+
 <img align='right' src='https://github.com/speedbuild98/speedbuild98/blob/main/bongo-cat-codes.gif?raw=true' width='20%'>
 
 ### Get in touch: 
@@ -57,7 +55,7 @@ I am Rodrigo Martín Arroyo, a Software Developer with experience in building cu
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=speedbuild98&background=082032&dates=ffffff&ring=f8cc0a&fire=F7DF1E&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff006c&sideLabels=f8cc0a&hide_border=true)](https://git.io/streak-stats)
 
-![Lautaro's github stats](https://github-readme-stats.vercel.app/api?username=speedbuild98&show_icons=true&theme=radical)
+![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=speedbuild98&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=speedbuild98&layout=compact)
 
