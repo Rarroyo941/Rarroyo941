@@ -34,7 +34,7 @@ I am Rodrigo Martín Arroyo, a Software Developer with experience in building cu
 
 ### Get in touch: 
 
-:floppy_disk: [My Portfolio](https://gallardolautaro.tech)
+:floppy_disk: [My Portfolio]([https://gallardolautaro.tech](https://github.com/Rarroyo941?tab=repositories))
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
