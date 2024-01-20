@@ -53,9 +53,9 @@ I am Rodrigo Martín Arroyo, a Software Developer with experience in building cu
 
 ## :bar_chart: GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rarroyo941&background=082032&dates=ffffff&ring=f8cc0a&fire=F7DF1E&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff006c&sideLabels=f8cc0a&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=speedbuild98&background=082032&dates=ffffff&ring=f8cc0a&fire=F7DF1E&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff006c&sideLabels=f8cc0a&hide_border=true)](https://git.io/streak-stats)
 
-![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=speedbuild98&show_icons=true&theme=radical)
+![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=Rarroyo941&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=speedbuild98&layout=compact)
 
